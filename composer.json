@@ -1,5 +1,5 @@
 {
-    "name": "anegve/newrelic-bundle",
+    "name": "ekino/newrelic-bundle",
     "type": "symfony-bundle",
     "description": "Integrate New Relic into Symfony 6",
     "keywords": ["metric", "performance", "monitoring"],
@@ -13,7 +13,7 @@
         }
     ],
     "require": {
-        "php": ">8.2",
+        "php": "^8.2",
         "monolog/monolog": "^3.0",
         "symfony/config": "^6.2",
         "symfony/console": "^6.2",
